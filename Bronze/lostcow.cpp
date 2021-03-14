@@ -44,7 +44,3 @@ int main()
 	fout.close();
 	return 0;
 }
-// i am annoyed with my mom because she is disappointed that i ont sing like my friends
-// i would be dissapointed if my kid didnt turn out how i expected
-// i should comply and sing today
-// it doesnt matter how i feel
